@@ -1,6 +1,6 @@
 (function (w, d) {
   // 1) Your Pixel Express pixel URL (default-on unless GPC/UOOM or user opt-out)
-  var PIXEL_URL = "https://cdn.v3.identitypxl.app/pixels/135ea81e-9474-45fa-a277-2db2322b555f/p.js";
+  var PIXEL_URL = "https://cdn.v3.identitypxl.app/pixels/8c3334e0-e6da-4795-bbc1-26a556bff652/p.js";
   var PIXEL_ID  = "pixelexpress-superpixel";
 
   // 2) Simple local opt-out key (persisted per browser)
